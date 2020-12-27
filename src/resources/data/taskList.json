@@ -1,0 +1,58 @@
+{"tasks": [
+  {
+    "due date": "2021-12-15",
+    "description": "walk dog",
+    "priority": "MEDIUM",
+    "category": "OTHER",
+    "status": true
+  },
+  {
+    "due date": "2021-11-29",
+    "description": "296 Marketing Video",
+    "priority": "HIGH",
+    "category": "SCHOOL",
+    "status": true
+  },
+  {
+    "due date": "2021-11-16",
+    "description": "CPSC 121 assignment",
+    "priority": "MEDIUM",
+    "category": "SCHOOL",
+    "status": false
+  },
+  {
+    "due date": "2021-11-15",
+    "description": "call doctor",
+    "priority": "MEDIUM",
+    "category": "HEALTH",
+    "status": true
+  },
+  {
+    "due date": "2021-11-09",
+    "description": "CPSC 121 quiz",
+    "priority": "MEDIUM",
+    "category": "SCHOOL",
+    "status": false
+  },
+  {
+    "due date": "2021-02-07",
+    "description": "birthday!!!",
+    "priority": "HIGH",
+    "category": "PERSONAL",
+    "status": false
+  },
+  {
+    "due date": "2021-12-25",
+    "description": "christmas",
+    "priority": "HIGH",
+    "category": "OTHER",
+    "status": true
+  },
+  {
+    "due date": "2021-12-31",
+    "description": "fight the dragon living in my backyard",
+    "priority": "HIGH",
+    "category": "WORK",
+    "status": true
+  }
+]}

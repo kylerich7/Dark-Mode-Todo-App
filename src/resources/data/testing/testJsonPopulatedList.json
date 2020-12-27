@@ -1,0 +1,23 @@
+{"tasks": [
+  {
+    "due date": "2020-12-15",
+    "description": "t1",
+    "priority": "HIGH",
+    "category": "SCHOOL",
+    "status": false
+  },
+  {
+    "due date": "2021-11-10",
+    "description": "t2",
+    "priority": "MEDIUM",
+    "category": "OTHER",
+    "status": true
+  },
+  {
+    "due date": "2022-05-27",
+    "description": "t3",
+    "priority": "LOW",
+    "category": "HEALTH",
+    "status": false
+  }
+]}
