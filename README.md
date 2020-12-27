@@ -31,7 +31,6 @@ and is the reason behind the creation of this todolist.**
 - view/filter the tasks that meet any one of (or all of) certain attributes, including:
     - status of the task (if completed)
     - if the task is overdue (due date has passed and task is not complete)
-    - if the task is due within a certain number of days I choose (regardless of completion status)
     - if the task is due today, within a week, or within a month
     - what priority the task has
     - what category the task has
