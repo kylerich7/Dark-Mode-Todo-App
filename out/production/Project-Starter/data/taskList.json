@@ -1,58 +1,44 @@
 {"tasks": [
   {
-    "due date": "2021-12-15",
-    "description": "walk dog",
-    "priority": "MEDIUM",
-    "category": "OTHER",
-    "status": true
-  },
-  {
-    "due date": "2021-11-29",
-    "description": "296 Marketing Video",
-    "priority": "HIGH",
-    "category": "SCHOOL",
-    "status": true
-  },
-  {
-    "due date": "2021-11-16",
-    "description": "CPSC 121 assignment",
-    "priority": "MEDIUM",
-    "category": "SCHOOL",
-    "status": false
-  },
-  {
-    "due date": "2021-11-15",
-    "description": "call doctor",
-    "priority": "MEDIUM",
-    "category": "HEALTH",
-    "status": true
-  },
-  {
-    "due date": "2021-11-09",
-    "description": "CPSC 121 quiz",
-    "priority": "MEDIUM",
-    "category": "SCHOOL",
-    "status": false
-  },
-  {
     "due date": "2021-02-07",
-    "description": "birthday!!!",
-    "priority": "HIGH",
+    "description": "Birthday!",
+    "priority": "LOW",
     "category": "PERSONAL",
     "status": false
   },
   {
-    "due date": "2021-12-25",
-    "description": "christmas",
+    "due date": "2021-01-08",
+    "description": "Prep for classes",
     "priority": "HIGH",
-    "category": "OTHER",
-    "status": true
+    "category": "SCHOOL",
+    "status": false
   },
   {
-    "due date": "2021-12-31",
-    "description": "fight the dragon living in my backyard",
+    "due date": "2021-01-04",
+    "description": "Take dog to vet",
+    "priority": "HIGH",
+    "category": "OTHER",
+    "status": false
+  },
+  {
+    "due date": "2020-12-31",
+    "description": "Finish project",
     "priority": "HIGH",
     "category": "WORK",
     "status": true
+  },
+  {
+    "due date": "2021-03-30",
+    "description": "Doctors appointment",
+    "priority": "MEDIUM",
+    "category": "HEALTH",
+    "status": false
+  },
+  {
+    "due date": "2021-05-09",
+    "description": "Fight the dragon living in my backyard",
+    "priority": "HIGH",
+    "category": "OTHER",
+    "status": false
   }
 ]}

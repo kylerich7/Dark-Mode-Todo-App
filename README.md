@@ -4,9 +4,9 @@ This application allows users to better organize their tasks and deadlines in a 
 manor.
 
 ## Screenshots
-https://i.imgur.com/SlPeP5I.png
+ui: https://i.imgur.com/1LwT9mT.png
 
-https://i.imgur.com/u5xbxxq.png
+uml: https://i.imgur.com/u5xbxxq.png
 
 ## Motivation
 I used this project as a stepping stone to develop the skills needed to create a larger scale productivity
